@@ -35,7 +35,4 @@ Primero intentamos adaptarnos a los materiales que tenemos, experimentando y hac
 ![image](https://github.com/pandadiestro/catch-a-pigeon/assets/123672027/241e5d78-9728-4fef-8941-18d65eba9541)
 
 ### Segundo avance
-Seguimos adaptándonos a los materiales que tenemos, por lo cual probamos el sensor PIR. La [prueba del sensor PIR](https://github.com/pandadiestro/catch-a-pigeon/tree/main/Avance-Probando_sensor_PIR), se volvió en nuestro segundo avance.
-
-### Tercer avance
-Para recibir información de los sensores conectados al esp32, nos apoyaremos de la plataforma ThingSpeak para tener datos en tiempo real a través de internet. Por lo tanto, la [conección a wifi](https://github.com/pandadiestro/catch-a-pigeon/tree/main/Avance-Coneccion_a_wifi) es el tercer avance que realizamos.
+Dentro de este [avance](https://github.com/pandadiestro/catch-a-pigeon/blob/main/espantapajaros.cpp), realizamos pruebas con el sensor PIR y conectamos el esp32 a la plataforma ThingSpeak para recibir información de los sensores.
