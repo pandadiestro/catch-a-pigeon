@@ -30,7 +30,7 @@ Se creará una interfaz de usuario en la página web que permitirá a los usuari
 
 ## Avances
 ### Primer avance
-Primero intentamos adaptarnos a los materiales que tenemos, experimentando y haciendo mini trabajos para familiarizarnos con el esp32 y su IDE. El [Contador de 4 bits](https://github.com/pandadiestro/catch-a-pigeon/tree/main/Avance-Contador_4_bits) fue lo primero que realizamos.
+Primero intentamos adaptarnos a los materiales que tenemos, experimentando y haciendo mini trabajos para familiarizarnos con el esp32 y su IDE. El [contador de 4 bits](https://github.com/pandadiestro/catch-a-pigeon/tree/main/Avance-Contador_4_bits) fue lo primero que realizamos.
 
 ![image](https://github.com/pandadiestro/catch-a-pigeon/assets/123672027/241e5d78-9728-4fef-8941-18d65eba9541)
 
