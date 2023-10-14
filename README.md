@@ -3,7 +3,7 @@
 
 El proyecto se centra en desarrollar un sistema de detección de plagas para áreas urbanas utilizando la plataforma Arduino y la programación en lenguaje C. El objetivo principal es crear una solución eficiente y automatizada para identificar la presencia de plagas, como insectos dañinos, roedores o cualquier otra amenaza para la salud pública y la vegetación en áreas urbanas.
 
-## Objetivo
+## Objetivos
 
 ### Detección de Plagas en Tiempo Real: 
 El principal objetivo del proyecto es implementar un sistema de detección de plagas que sea capaz de monitorear constantemente el entorno y detectar la presencia de plagas en tiempo real. Esto se logrará mediante sensores específicos que identificarán características asociadas con las plagas, como movimientos, sonidos o cambios en las condiciones ambientales.
