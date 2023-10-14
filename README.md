@@ -18,4 +18,13 @@ Cuando se detecte una plaga, el sistema enviará notificaciones automáticas a u
 Se creará una interfaz de usuario en la página web que permitirá a los usuarios monitorear y analizar los datos de detección de plagas de manera efectiva. Los usuarios podrán ver informes, estadísticas y alertas sobre la presencia de plagas en su área urbana.
 
 ## Avances
+### Primer avance
+Primero intentamos adaptarnos a los materiales que tenemos, experimentando y haciendo mini trabajos para familiarizarnos con el esp32 y su IDE. El [Contador de 4 bits]([https://github.com/live-houses/live-houses/wiki](https://github.com/pandadiestro/catch-a-pigeon/tree/main/Avance-Contador_4_bits)) fue lo primero que realizamos.
 
+![image](https://github.com/pandadiestro/catch-a-pigeon/assets/123672027/241e5d78-9728-4fef-8941-18d65eba9541)
+
+### Segundo avance
+Seguimos adaptandonos a los materiales que tenemos, por lo cual probamos el sensor PIR. 
+
+### Tercer avance
+Para recibir información de los sensores conectados al esp32, nos apoyaremos de la plataforma ThingSpeak para tener datos en tiempo real a través de internet. Por lo tanto, la [conección a wifi](https://github.com/pandadiestro/catch-a-pigeon/tree/main/Avance-Coneccion_a_wifi) es el tercer avance que realizamos.
