@@ -1,4 +1,15 @@
 # Catch-a-Pigeon
+
+## Integrantes
+
+- Alva Sáenz, Rodrigo José
+
+- Calle Huamantinco, Luis Eduardo
+
+- Díaz Ingol, Jesús Stevan
+
+- Rojas Castañeda, Ruth Camila
+
 ## Descripción del proyecto
 
 El proyecto se centra en desarrollar un sistema de detección de plagas para áreas urbanas utilizando la plataforma Arduino y la programación en lenguaje C. El objetivo principal es crear una solución eficiente y automatizada para identificar la presencia de plagas, como insectos dañinos, roedores o cualquier otra amenaza para la salud pública y la vegetación en áreas urbanas.
