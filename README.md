@@ -6,7 +6,7 @@
 
 - Calle Huamantinco, Luis Eduardo
 
-- Díaz Ingol, Jesús Stevan
+- Diaz Ingol, Jesus Stevan
 
 - Rojas Castañeda, Ruth Camila
 
