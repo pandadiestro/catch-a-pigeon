@@ -1,3 +1,4 @@
+
 # Catch-a-Pigeon
 
 ## Integrantes
@@ -38,3 +39,7 @@ Primero intentamos adaptarnos a los materiales que tenemos, experimentando y hac
 Dentro de este [avance](https://github.com/pandadiestro/catch-a-pigeon/blob/main/espantapajaros.cpp), realizamos pruebas con el sensor PIR y conectamos el esp32 a la plataforma ThingSpeak para recibir información de los sensores.
 
 ![hola](https://github.com/pandadiestro/catch-a-pigeon/assets/123672027/9090d910-2544-44a5-b4a5-250041367478)
+
+https://github.com/pandadiestro/catch-a-pigeon/assets/124403825/11293a60-1634-4e57-b6a7-2064d32ff308
+
+
